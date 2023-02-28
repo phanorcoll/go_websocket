@@ -1,5 +1,13 @@
 # Websocket Go
 
+### Running Locally
+
+run the following command to start the server:
+
+```bash
+go run main.go
+```
+
 ### Testing
 
 To test, open the webdev tools in multiple tabs, the console and run:
